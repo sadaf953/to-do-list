@@ -42,9 +42,3 @@ The application is fully responsive and works seamlessly on:
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is open-source and available under the MIT License.
-
----
-
-**Created with ❤️ by Your Name**
